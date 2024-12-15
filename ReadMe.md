@@ -1,4 +1,7 @@
-Color Balance and Fusion for Underwater Image Enhancement Recreation
+# Underwater Image Color Corrector
+
+This repository contains MATLAB scripts that correct the color of underwater images, designed to restore true-to-life colors and improve visual clarity. Due to light absorption and scattering, underwater images often suffer from color distortion, with colors such as red and orange diminishing as depth increases. This project addresses these challenges by implementing efficient algorithms to enhance color accuracy and restore the natural vibrancy of underwater scenes.
+
 Authors: Aaron Yangello (ayangello@gmail.com), Singyan Yuen (yuens7@students.rowan.edu)
 	*NOTE: This project was created using MATLAB R2017b with the image processing toolbox (https://www.mathworks.com/products/image-processing-toolbox.html)
 
