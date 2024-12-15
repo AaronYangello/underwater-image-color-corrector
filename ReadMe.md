@@ -6,6 +6,7 @@ Authors: Aaron Yangello (ayangello@gmail.com), Singyan Yuen (yuens7@students.row
 	*NOTE: This project was created using MATLAB R2017b with the image processing toolbox (https://www.mathworks.com/products/image-processing-toolbox.html)
 
 To run this project, follow the steps detailed below:
+
 	1. Open Underwater_Demo.m
 	2. Change the 'projectPath' variable in the "House Keeping" section to match the 'Project' folder in which the 'Scripts' and 'InputRaw' folders exist.
 	3. Run the "House Keeping section (Note that this must be done before proceding to steps 4 or 5).
